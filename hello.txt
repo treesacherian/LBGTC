@@ -1,5 +1,3 @@
 
-Welcome home
-
-Hello
+demo on git pull and goit fetch
 
